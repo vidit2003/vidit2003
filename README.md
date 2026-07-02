@@ -1,13 +1,24 @@
 <div align="center">
 
-# Vidit Suryavanshi
+# 👋 Hi, I'm Vidit
 
-### Cybersecurity Student • Ethical Hacking & Offensive Security Enthusiast
+### Breaking systems to understand them. Securing them to improve them.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Exploring+Offensive+Security;Ethical+Hacking+%7C+Penetration+Testing;Linux+%7C+Python+%7C+Networking;Hands-on+Labs+%26+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&center=true&width=650&lines=Learning+by+building.;Finding+vulnerabilities.;Documenting+everything.;One+lab+at+a+time." />
 
 </div>
 
+---
+
+## ~/whoami
+
+```bash
+Student: Cybersecurity
+Focus: Offensive Security
+OS: Linux
+Language: Python
+Mission: Learn → Practice → Build → Repeat
+```
 ---
 
 ## About Me
