@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Vidit
+# 👋 Hi, I'm Vidit 
 
-### Breaking systems to understand them. Securing them to improve them.
+### Curiosity drives discovery. Security drives trust.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&center=true&width=650&lines=Learning+by+building.;Finding+vulnerabilities.;Documenting+everything.;One+lab+at+a+time." />
 
@@ -14,16 +14,16 @@
 
 ```bash
 Student: Cybersecurity
-Focus: Offensive Security
+Focus: Offensive Security & Defensive Security
 OS: Linux
 Language: Python
-Mission: Learn → Practice → Build → Repeat
+Mindset: Learn → Practice → Build → Repeat
 ```
 ---
 
 ## About Me
 
-I'm a cybersecurity student passionate about **Offensive Security** and **Ethical Hacking**, with a strong interest in understanding how systems work, identifying vulnerabilities, and strengthening security through practical learning.
+I'm a cybersecurity student focused on Offensive Security, Defensive Security, and Ethical Hacking, with a strong interest in understanding how systems work, identifying vulnerabilities, and strengthening security through practical learning.
 
 My current areas of focus include:
 
@@ -85,7 +85,7 @@ Learning Path:
 
 ## Certifications
 
-🏆 **Certified Ethical Hacker (CEH)**
+🏆 **Certified Ethical Hacker v13 (CEHv13)**
 
 ---
 
