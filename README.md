@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=16,17,18,19,20&text=VIDIT%20SURYAVANSHI&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Vidit 
