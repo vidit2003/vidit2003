@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=gradient&customColorList=16,18,20,22,24&text=VIDIT%20SURYAVANSHI&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=16,17,18,19,20&text=VIDIT%20SURYAVANSHI&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 </p>
-
 <div align="center">
 
 # 👋 Hi, I'm Vidit 
@@ -17,10 +16,10 @@
 ## ~/whoami
 
 ```bash
-Student: Cybersecurity
+Student: B.Tech Cybersecurity
 Focus: Offensive Security & Defensive Security
-OS: Linux
-Language: Python
+OS: Linux, Windows
+Language: Python, c++
 Mindset: Learn → Practice → Build → Repeat
 ```
 ---
