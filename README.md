@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=16,17,18,19,20&text=VIDIT%20SURYAVANSHI&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+<img src="https://komarev.com/ghpvc/?username=vidit2003&label=Profile%20Views&color=7F3FBF&style=for-the-badge"/>
 </p>
 
 <div align="center">
